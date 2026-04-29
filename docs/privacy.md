@@ -50,9 +50,8 @@ We do not configure Sentry to collect IP addresses or user agents
 (`sendDefaultPii: false`). Crash reports cannot be tied to an individual
 user.
 
-The relevant code is in
-[`src/telemetry/sentry.ts`](https://github.com/zerozoo-a/ipodclassic/blob/main/src/telemetry/sentry.ts)
-of the open-source repository.
+The scrubber runs locally on your device before any data leaves it; if
+you stop using the app, no diagnostics are sent.
 
 ## Permissions
 
@@ -77,4 +76,4 @@ the App Store release notes for the version that introduces them.
 ## Contact
 
 Issues, questions, or removal requests:
-<https://github.com/zerozoo-a/ipodclassic/issues>
+<https://github.com/zerozoo-a/slider/issues>
