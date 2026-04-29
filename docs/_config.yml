@@ -1,0 +1,8 @@
+# GitHub Pages Jekyll config — minimal.
+# Renders docs/*.md as HTML at https://zerozoo-a.github.io/ipodclassic/
+# To enable: GitHub repo → Settings → Pages → Source: "Deploy from a
+# branch", Branch: main, Folder: /docs.
+
+title: slider
+description: slider — privacy + support
+theme: jekyll-theme-cayman
