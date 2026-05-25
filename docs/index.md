@@ -1,16 +1,15 @@
 ---
-title: slider
+title: reeel
 ---
 
-# slider
+# reel
 
-A click-wheel music player for files you import yourself. iOS, free, no
-account, no streaming. Everything stays on your device.
+A pocket-sized music player. Click. Spin. Listen.
 
 ## Links
 
 - [Privacy Policy](privacy)
-- [Issues / support](https://github.com/zerozoo-a/slider/issues)
+- [Issues / support](https://github.com/zerozoo-a/reeel/issues)
 
 ---
 
